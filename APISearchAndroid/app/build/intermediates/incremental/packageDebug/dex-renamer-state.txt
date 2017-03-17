@@ -1,0 +1,7 @@
+#Sat Feb 11 09:28:30 EST 2017
+base.0=F\:\\subs\\MC\\APISearchAndroid\\APISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd89a374d1de921f2ecd8a8fdeb1b9af349141ef
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\subs\\MC\\APISearchAndroid\\APISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e7e1247210970a6e0fa4c45fc907cee7162871fd\\classes.dex
+base.1=F\:\\subs\\MC\\APISearchAndroid\\APISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e7e1247210970a6e0fa4c45fc907cee7162871fd
+file.0=F\:\\subs\\MC\\APISearchAndroid\\APISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd89a374d1de921f2ecd8a8fdeb1b9af349141ef\\classes.dex
